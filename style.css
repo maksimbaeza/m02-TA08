@@ -1,0 +1,78 @@
+nav {
+
+   
+     display: inline-block;
+     float: left;
+     font-family: 'Inconsolata', monospace;
+     font-size: 20px;  
+     color: white;
+     text-align: center;
+     padding: 10px;
+     text-decoration: none;
+     position: relative;
+}
+
+
+
+header {
+
+     color: whitesmoke;
+     font-family: 'Bebas Neue', cursive;
+     font-size: 300px;
+     padding-top: 240px;
+     padding-left: 90px;
+     height: 710px;
+
+}
+
+
+body {
+
+     background-color: black;
+     padding: 0px;
+
+
+}
+
+h1 {
+
+     color: black;
+     font-family: 'Bebas Neue', cursive;
+     font-size: 30px; 
+     position: relative;    
+
+}
+h2 {
+
+     color: black;
+     font-family: 'Bebas Neue', cursive;
+     font-size: 30px; 
+     position: relative;    
+
+}
+
+.base0 {
+
+     background-color: whitesmoke;
+     width: 1895px;
+     height: 2000px;
+     position: absolute;
+
+
+
+}
+
+footer {
+
+     color: black;
+     font-family: 'Inconsolata', monospace;
+     position: absolute;
+
+}
+
+#logo {
+
+     position: absolute;
+     max-height: 1000px;
+
+}
