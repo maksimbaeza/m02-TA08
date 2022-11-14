@@ -82,6 +82,17 @@ h1 {
      padding: 120px;  
 
 }
+
+#plumbob {
+
+     position: relative;
+     max-height: 1000px;
+     height: 600px;
+     margin-left: 650px;
+
+}
+
+
 h2 {
 
      color: black;
@@ -95,7 +106,7 @@ h2 {
 
      background-color: whitesmoke;
      width: 1895px;
-     height: 1000px;
+     height: 1100px;
      position: absolute;
 
 }
@@ -120,7 +131,7 @@ h5 {
 
 #logo {
 
-     position: absolute;
+     position: relative;
      max-height: 1000px;
 
 }
