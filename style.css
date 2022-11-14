@@ -1,45 +1,85 @@
-nav {
-
-   
-     display: inline-block;
-     float: left;
-     font-family: 'Inconsolata', monospace;
-     font-size: 20px;  
-     color: white;
-     text-align: center;
-     padding: 10px;
-     text-decoration: none;
-     position: relative;
-}
-
-
 
 header {
 
      color: whitesmoke;
-     font-family: 'Bebas Neue', cursive;
-     font-size: 300px;
-     padding-top: 240px;
-     padding-left: 90px;
-     height: 710px;
+     background-color: black;
+     width: 100%;
+     height: 1015px;
+     padding: 0px;
+     margin: 0px;
+     position: relative;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+.navbar0 {
+
+     background-color: black;
+     overflow: hidden;
+
+}
+
+.navbar0 a {
+
+     float: left;
+     color: whitesmoke;
+     font-family: 'Inconsolata', monospace;
+     text-decoration: none;
+     padding: 20px;
+     text-align: center;    
+
+}
+
+.navbar0 a:hover {
+
+  background-color: whitesmoke;
+  color: black;
+
+}
+
+ul {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+
+
+
+
+
+
+
+
 
 
 body {
 
      background-color: black;
      padding: 0px;
-
+     margin: 0px;
 
 }
 
+
 h1 {
 
-     color: black;
+     color: whitesmoke;
      font-family: 'Bebas Neue', cursive;
-     font-size: 30px; 
-     position: relative;    
+     font-size: 270px; 
+     position: absolute;  
+     padding: 120px;  
 
 }
 h2 {
@@ -55,18 +95,26 @@ h2 {
 
      background-color: whitesmoke;
      width: 1895px;
-     height: 2000px;
+     height: 1000px;
      position: absolute;
-
-
 
 }
 
-footer {
+
+
+
+
+
+
+
+
+
+
+h5 {
 
      color: black;
      font-family: 'Inconsolata', monospace;
-     position: absolute;
+     position: relative;
 
 }
 
@@ -76,3 +124,39 @@ footer {
      max-height: 1000px;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+.navbar1 {
+
+     background-color: black;
+     overflow: hidden;
+
+}
+
+.navbar1 a {
+
+     float: left;
+     color: whitesmoke;
+     font-family: 'Inconsolata', monospace;
+     text-decoration: none;
+     padding: 20px;
+     text-align: center;    
+
+}
+
+.navbar1 a:hover {
+
+  background-color: whitesmoke;
+  color: black;
+
+}
+
