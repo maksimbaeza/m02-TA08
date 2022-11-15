@@ -86,6 +86,17 @@ h1 {
 
 
 }
+
+#plumbob {
+
+     position: relative;
+     max-height: 1000px;
+     height: 600px;
+     margin-left: 650px;
+
+}
+
+
 h2 {
 
      color: black;
@@ -133,6 +144,7 @@ h3 {
 .base0 {
 
      background-color: whitesmoke;
+<<<<<<< HEAD
      width: 100%;
      height: 1080px;
      position: static;
@@ -147,6 +159,11 @@ h3 {
      height: 1000px;
      position: static;
      margin-top: 40%;
+=======
+     width: 1895px;
+     height: 1100px;
+     position: absolute;
+>>>>>>> f606d6af238a1063fbf6975c6d70b049eaecda75
 
 }
 
@@ -174,7 +191,7 @@ h5 {
 
 #logo {
 
-     position: absolute;
+     position: relative;
      max-height: 1000px;
 
 }

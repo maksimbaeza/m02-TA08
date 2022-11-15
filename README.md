@@ -2,3 +2,4 @@
 Este es el repositorio de la tarea n°8 definitivo
 -probando en notebook
 -probando pc
+-avance en notebook
